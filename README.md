@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @brewdiHQ
-- 👀 I’m interested in mobile development
+- 👋 Hi, I’m stephan
+- 👀 I’m interested in mobile development. most of all swift and kotlin. dart and flutter pretty incredible as well
 - 🌱 I’m currently learning aws cloud, lpic, psm, and JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
