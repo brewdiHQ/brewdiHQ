@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Stephan
-- 🫶 I’m interested in Mobile Development. most of all Swift and Kotlin. Dart and Flutter pretty incredible as well
+- 👋 Hi, I’m Stephan. I live in Palatina, Germnany 
+- 🫶 I’m interested in Mobile Development. Most of all Swift and Kotlin. Dart and Flutter pretty incredible as well
 - 🚀 I’m currently learning AWS Cloud, LPIC, Professional Scrum Master, JavaScript an a lots of other DevOps Tools @techstarter.de to become a Devops Engineer in future
 - 👀 I´m looking for a Job as Mobile Developer or as an DevOps Engineer starting Summer ´23 
 
