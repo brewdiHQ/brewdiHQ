@@ -1,7 +1,7 @@
-👋 Hi, I’m Stephan and I´m from Palatina, Germany 
-🫶 I’m interested in Mobile Development. Most of all Swift and Kotlin. Dart and Flutter pretty incredible as well
-🚀 I’m currently learning AWS Cloud, LPIC, PSM(R), JavaScript and a tons of other fancy DevOps Tools @techstarter.de to become a DevOps Engineer soon
-👀 I´m looking for a Job as Mobile Developer or as an DevOps Engineer starting Summer ´23 
+* 👋 Hi, I’m Stephan and I´m from Palatina, Germany 
+* 🫶 I’m interested in Mobile Development. Most of all Swift and Kotlin. Dart and Flutter pretty incredible as well
+* 🚀 I’m currently learning AWS Cloud, LPIC, PSM(R), JavaScript and a tons of other fancy DevOps Tools @techstarter.de to become a DevOps Engineer soon
+* 👀 I´m looking for a Job as Mobile Developer or as an DevOps Engineer starting Summer ´23 
 
 <!---
 brewdiHQ/brewdiHQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
