@@ -20,9 +20,6 @@ You can click the Preview link to take a look at your changes.
 	<a target="_blank" rel="noopener noreferrer nofollow" href=https://github.com/brewdiHQ/github-readme-stats ><img width="450em" src="https://github-readme-stats-brewdihq.vercel.app/api/?username=brewdiHQ&theme=codeSTACKr&bg_color=0C1117&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&text_bold=false" style="max-width: 100%;"></a>
 </p>
 
-<a href="https://github.com/brewdiHQ/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-brewdihq.vercel.app/api/?username=brewdiHQ&theme=codeSTACKr&bg_color=0C1117&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&text_bold=false" />
-</a>
-<a href="https://github-readme-stats-brewdihq.vercel.app/api/top-langs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brewdiHQ&theme=codeSTACKr&layout=compact&hide_border=true&bg_color=0C1117&card_width=350&langs_count=9&cache_seconds=7200&count_private=true" />
-</a>
+<p align="center" dir="auto">
+	<a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats-brewdihq.vercel.app/api/top-langs" ><img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brewdiHQ&theme=codeSTACKr&layout=compact&hide_border=true&bg_color=0C1117&card_width=350&langs_count=9&cache_seconds=7200&count_private=true"style="max-width: 100%;"></a>
+</p>
