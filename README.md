@@ -22,3 +22,9 @@ You can click the Preview link to take a look at your changes.
   <img align="center" src="https://github-readme-stats-brewdihq.vercel.app/api/top-langs/?username=brewdiHQ&theme=codeSTACKr&layout=compact&hide_border=true&bg_color=0C1117&card_width=350&langs_count=9&cache_seconds=7200&count_private=true" />
 </a>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
