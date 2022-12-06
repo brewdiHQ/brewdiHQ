@@ -15,9 +15,10 @@ You can click the Preview link to take a look at your changes.
 --->
 <br>
 <br>
-<a href="https://github-readme-stats-brewdihq.vercel.app/api/top-langs">
-  <img align="center" src="https://github-readme-stats-brewdihq.vercel.app/api/top-langs/?username=brewdiHQ&theme=codeSTACKr&layout=compact&hide_border=true&bg_color=0C1117&card_width=350&langs_count=9&cache_seconds=7200&count_private=true" />
-</a>
 <a href="https://github.com/brewdiHQ/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=brewdiHQ&theme=codeSTACKr&bg_color=0C1117&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&text_bold=false" />
 </a>
+<a href="https://github-readme-stats-brewdihq.vercel.app/api/top-langs">
+  <img align="center" src="https://github-readme-stats-brewdihq.vercel.app/api/top-langs/?username=brewdiHQ&theme=codeSTACKr&layout=compact&hide_border=true&bg_color=0C1117&card_width=350&langs_count=9&cache_seconds=7200&count_private=true" />
+</a>
+
