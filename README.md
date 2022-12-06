@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-[![Top Langs](https://github-readme-stats-brewdihq.vercel.app/api/top-langs/?username=brewdiHQ&theme=codeSTACKr&layout=compact&hide_border=true&bg_color=0C1117&card_width=350&langs_count=9&cache_seconds=7200&count_private=true)](https://github.com/brewdiHQ/github-readme-stats)
+[![Top Langs](https://github-readme-stats-brewdihq.vercel.app/api/top-langs/?username=brewdiHQ&theme=codeSTACKr&layout=compact&hide_border=true&bg_color=0C1117&card_width=350&langs_count=9&cache_seconds=7200&count_private=true)]()
 
 <!--- cards side by side
 <a href="https://github.com/anuraghazra/github-readme-stats">
