@@ -1,7 +1,7 @@
 * 👋 &nbsp; Hi, I’m Stephan and I´m from Palatina, Germany 
 * 🫶 &nbsp; I’m interested in Mobile Development. Most of all Swift and Kotlin. Dart and Flutter pretty incredible as well
 * 🚀 &nbsp; I have completed my studies in AWS Cloud, LPIC, PSM(R), JavaScript, and various other DevOps tools, positioning myself to become a DevOps Engineer
-* 👀 &nbsp; I’m currently learning: tba stay tuned
+* 👀 &nbsp; I’m currently learning Swift 🥇
 <!---
 brewdiHQ/brewdiHQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
